@@ -1,20 +1,11 @@
-Normally I do a ppt presentation, but I made a site cause this is my life now, and I'm embracing it. 
-
-What is Parallax Scrolling?
-- Who here has heard of Parallax Scrolling?
-- For those of you who haven't, I'm sure you've seen it before
-- When you're scrolling down a page, the elements on a page scroll at different speeds (ie site)
-
-How to implement?
-- 2 ways to do it with CSS
-- meaganpau.com
-- background-attachment: fixed
-- Pure CSS
-
-Good, Bad, Ugly
-- Parallax scrolling has been a huge trend that started a few years ago and it's showing up EVERYWHERE
-- And as Jordan mentioned, everyone on the internet has an opinion on something, so they definitely have an opinion on this
-- If you Google "Parallax Scrolling", you'll find tons of blog posts with strong opinions on parallax scrolling
-- Good -- if done well, looks good (and cool!)
-- Bad -- people get confused, people skip over content, might get annoying (super long sites, overwhelming -- too much happening at once, hard to find information, takes AWAY from the user experience
+1) ppt
+2) what is ps
+	- who? -- seen before
+	- scrolling down site, elements 
+	- parallax example 
+3) meaganpau.com > background-attachment: fixed
+4) trend
+- google > blogs
+- opinionated
+- Bad -- people get confused, people skip over content, might get annoying (super long sites, overwhelming -- too much happening at once, hard to find information, takes AWAY from the user experience, SEO, doesn't work well on mobile, page load time
 
